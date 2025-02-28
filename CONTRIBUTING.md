@@ -14,7 +14,7 @@
 
 1. 克隆项目到本地：
 ```bash
-git clone https://github.com/你的用户名/json-compare.git
+git clone https://github.com/fanghua355/json-compare.git
 cd json-compare
 ```
 
